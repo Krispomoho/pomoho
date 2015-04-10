@@ -1,4 +1,3 @@
-pomoho
-======
-this is my first git project
-this is my first try
+author : pomoho
+===========
+this is the first try .
